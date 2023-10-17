@@ -1,7 +1,10 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: October 17, 2023
+- Facilitator: Madelyn Kapfhammer
+- Name: Alissa Honigford
+
+Here is a fun little change. **_Hehehehe_**
 
 ## Class Resources
 
